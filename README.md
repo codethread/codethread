@@ -2,7 +2,7 @@
 
 I like to code, so far my editor has recorded:
 
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg?style=flat-square)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+[![wakatime](https://wakatime.com/badge/user/80a39c88-3ac2-4995-beab-fef12c15afd1.svg?style=flat-square)](https://wakatime.com/@80a39c88-3ac2-4995-beab-fef12c15afd1)
 
 <!--
 **codethread/codethread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
